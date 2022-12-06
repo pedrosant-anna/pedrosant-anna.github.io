@@ -15,7 +15,7 @@ header:
   image: ''
 ---
 ### **Working Papers**
-**Affective Polarization during Electoral Times: Evidence from Twitter** <font size="3"> (with [Nicolás Ajzenman](http://www.ajzenman.com/) and [Bruno Ferman](https://sites.google.com/site/brunoferman/)) _Draft comming soon!_
+**Rooting for the same team: On the interplay between social and political identities in the formation of social ties** <font size="3"> (with [Nicolás Ajzenman](http://www.ajzenman.com/) and [Bruno Ferman](https://sites.google.com/site/brunoferman/)) _Draft comming soon!_
 <details style="margin-top:-15px; margin-bottom:-2px;">
   <summary>Abstract</summary>
 <p style="padding-top:0;line-height: 1em">We study the interplay between political and affective congruence in the formation of social ties on Twitter in the context of the Brazilian 2022 elections. We created fictional bot accounts on Twitter that signaled two dimensions of identity: first, political preference for one of the two leading candidates in the election (Luiz Inácio Lula da Silva or Jair Messias Bolsonaro); second, preference for a Brazilian football club, which we interpret as an affective dimension of identity. The bots randomly followed Twitter accounts with congruent and incongruent identities across these two dimensions. We computed the proportion of follow-backs and blocks received by the bots as measures of social ties. We find that sharing either dimension of identity has a positive effect on follow-backs and a negative effect on blocks. However, the effect of sharing a political identity is significantly greater than the effect of sharing the other affective identity. For instance, a bot who follows a Twitter user with whom they share political identity but who supports a rival football club is over three times more likely to have the follow reciprocated than if he had followed a user with an opposite political preference but who supports the same club. Still, supporting the same football club increases the likelihood of ties even among politically incongruent individuals, suggesting that highlighting similarities in dimensions orthogonal to politics can help reduce politically-induced societal divides. Finally, we explore the differential timing of treatment to study whether the follow-back and blocking behavior changes depending on the proximity of the election.</p>
@@ -40,6 +40,7 @@ header:
 </p>
 </details>
 
+*Media Coverage:* [Foco Economico](https://dev.focoeconomico.org/2022/12/05/alcaldes-negros-como-role-models-evidencia-de-brasil/)
 </font>
 
 ### **Previous Work**
