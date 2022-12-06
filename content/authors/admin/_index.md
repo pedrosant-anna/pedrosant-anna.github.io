@@ -69,6 +69,6 @@ highlight_name: true
 ---
 
 ## Welcome to my academic website!
-I am an MSc student in economics at the [São Paulo School of Economics](https://economics-sp.fgv.br/). My main research interest is applied microeconomics, particularly behavioral and political economy. In my current research, I use field experiments and other applied methods to study topics related to political economy, social identity, and discrimination. 
+I am an MSc student in economics at the [São Paulo School of Economics](https://economics-sp.fgv.br/). I am interested in topics in applied microeconomics, particularly those related to behavioral economics and political economy. In my current research, I use field experiments and other applied methods to study topics related to political economy, social identity, and discrimination.
 
 You can find my complete CV [here](/cv), and take a look at my research [here](/research).
