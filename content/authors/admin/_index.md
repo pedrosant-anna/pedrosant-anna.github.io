@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Pedro Sant'Anna
+title: Pedro C. Sant'Anna
 
 # Full name (for SEO)
 first_name: Pedro
-last_name: Sant'Anna
+last_name: C. Sant'Anna
 
 # Is this the primary user of the site?
 superuser: true
@@ -43,7 +43,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:pedro.santanna@fgv.br"
+    link: "mailto:santanna.pedroc@gmail.com"
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/PedroSant_Anna
