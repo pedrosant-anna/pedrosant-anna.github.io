@@ -10,7 +10,7 @@ last_name: C. Sant'Anna
 superuser: true
 
 # Role/position/tagline
-role: MSc Student in Economics
+role: MSc in Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,7 +18,7 @@ organizations:
     url: https://economics-sp.fgv.br/
 
 # Short bio (displayed in user profile at end of posts)
-bio: MSc student in economics at the São Paulo School of Economics.
+bio: MSc in economics at the São Paulo School of Economics.
 
 # Interests to show in About widget
 
@@ -69,6 +69,6 @@ highlight_name: true
 ---
 
 ## Welcome to my academic website!
-I am an MSc student in economics at the [São Paulo School of Economics](https://economics-sp.fgv.br/). I am interested in topics in applied microeconomics, particularly those related to behavioral economics and political economy. In my current research, I use field experiments and other applied methods to study topics related to political economy, social identity, and discrimination.
+I hold an MSc in economics from the [São Paulo School of Economics](https://economics-sp.fgv.br/) and am an incoming PhD student in economics at MIT (starting Fall/2023). I am interested in topics in applied microeconomics, particularly those related to behavioral economics and political economy. In my current research, I use field experiments and other applied methods to study topics related to political economy, social identity, and discrimination.
 
 You can find my complete CV [here](/cv), and take a look at my research [here](/research).
