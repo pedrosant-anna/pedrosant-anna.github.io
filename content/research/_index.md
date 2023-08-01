@@ -20,6 +20,8 @@ header:
 <p style="padding-top:0;line-height: 1em;margin-bottom:-2px;">Can shared identities help overcome political divides in polarized settings? We answer this question with a field experiment on Twitter during the Brazilian 2022 elections. Although both congruence in political (supporting the same candidate) and affective (rooting for the same football team) identities increase follow-backs and reduce blocks, the positive effect of shared affective identity weakens when information on political identity is available. Using observational live-streamed data from Twitter during the 2022 World Cup, we complement our analysis by exploring the public political leaning of Brazilian players. Analyzing the content of tweets posted by Brazilian nationals during the country's games, we document significant differences in fans' reactions depending on their political alignment with the specific players that triggered relevant events in the game. Our results indicate that political identity can hinder the potential of other shared identities to reduce political divides and foster social cohesion.</p>
   
 [AEA RCT Registry](https://www.socialscienceregistry.org/trials/9982)
+
+*Media Coverage:* [Esto no es Economía](https://www.noeseconomia.com/p/si-esto-no-es-economia-que-es)
 </font>
 
 **[Discrimination in the Formation of Academic Networks: A Field Experiment on #EconTwitter](http://ssrn.com/abstract=4323614)** <font size="3"> (with [Nicolás Ajzenman](http://www.ajzenman.com/) and [Bruno Ferman](https://sites.google.com/site/brunoferman/)) <a href="Discrimination_Twitter_Jan13.pdf" target="_blank">[Working Paper]</a>
@@ -27,6 +29,8 @@ header:
 <p style="padding-top:0;line-height: 1em;margin-bottom:-2px;">This paper assesses the results of an experiment designed to identify discrimination in users’ following behavior on Twitter. Specifically, we created fictitious bot accounts that resembled humans and claimed to be PhD students in economics. The accounts differed in three characteristics: gender (male or female), race (Black or White), and university affiliation (top- or lower-ranked). The bot accounts randomly followed Twitter users who form part of the #EconTwitter academic community. We measured how many follow-backs each account obtained after a given period. Twitter users from this community were 12% more likely to follow accounts of White students compared to those of Black students; 21% more likely to follow accounts of students from top-ranked, prestigious universities compared to accounts of lower-ranked institutions; and 25% more likely to follow female compared to male students. The racial gap persisted even among students from top-ranked institutions, suggesting that Twitter users racially discriminate even in the presence of a signal that could be interpreted as indicative of high academic potential. Notably, we find that Black male students from top-ranked universities receive no more follow-backs than White male students from relatively lower-ranked institutions.</p>
   
 [AEA RCT Registry](https://www.socialscienceregistry.org/trials/9507)
+
+*Media Coverage:* [Promarket](https://www.promarket.org/2023/05/16/discrimination-in-the-formation-of-academic-networks-at-econtwitter/); [Folha de São Paulo](https://www1.folha.uol.com.br/blogs/politicas-e-justica/2023/04/redes-profissionais-e-discriminacao-no-twitter.shtml)
 </font>
 
 **Black Mayors as Role Models: Evidence from Close Elections in Brazil** <font size="3"> <a href="BlackMayors_Nov22.pdf" target="_blank">[Working Paper]</a>
