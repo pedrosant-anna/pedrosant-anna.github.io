@@ -14,8 +14,8 @@ role: PhD student in Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: São Paulo School of Economics - FGV
-    url: https://economics-sp.fgv.br/
+  - name: Massachusetts Institute of Technology
+    url: https://economics.mit.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: PhD student in Economics at MIT
