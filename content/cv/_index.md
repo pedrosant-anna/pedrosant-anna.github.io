@@ -14,4 +14,4 @@ header:
   caption: ''
   image: ''
 ---
-You can find my complete CV <a href="CV_PedroSantAnna_2022.pdf" target="_blank">here</a>
+You can find my complete CV <a href="CV_PedroSantAnna_2023.pdf" target="_blank">here</a>
