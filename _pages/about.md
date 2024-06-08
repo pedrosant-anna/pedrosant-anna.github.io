@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my academic website!"
+title: "Pedro C. Sant'Anna"
 author_profile: true
 redirect_from: 
   - /about/
