@@ -15,6 +15,15 @@ author_profile: true
 <p><em>Media Coverage:</em> <a href="https://www.noeseconomia.com/p/si-esto-no-es-economia-que-es" target="_blank">Esto no es Economía</a></p>
 </div>
 
+- **Elections that Inspire: Effects of Black Mayors on Educational Attainment** (with Jorge Ikawa, Clarice Martins, and <a href="https://rogeriosantarrosa.wordpress.com/" target="_blank">Rogério Santarrosa</a>; Previously circulated as: *"Black Mayors as Role Models: Evidence from close elections in Brazil"*) <a href="../files/BlackMayors_May9.pdf" target="_blank">[Working Paper]</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5060450" target="_blank">[SSRN]</a>, Revise and Resubmit, Journal of Public Economics
+
+<div style="margin-left: 40px;">
+<p style="padding-top:0;line-height:1.5em;margin-bottom:-2px;"> This paper studies the effects of the election of Black candidates as mayors in Brazil on Black students’ educational choices and attainment. Using a regression discontinuity design comparing municipalities where Black candidates either won or lost the election by a small margin, we first document that Black students from municipalities where Black candidates win are more likely to enroll for the National High School Examination (ENEM), a high-stakes exam used as an admission criteria for many universities. Effects start two years after the election and persist for up to eight years. We also document positive, but much smaller effects for White students. Consistent with the effect on ENEM enrollment, Black students from municipalities where Black candidates won the election are more likely to be enrolled in universities and, in subsequent years, to graduate. Finally, exploring mechanisms, we find suggestive evidence that shifts in students’ aspirations play (at least partially) an important role: (i) secondary and tertiary education are not primary responsibilities of mayors; (ii) Black mayors do not change policies that could affect our outcomes; and (iii) the effects are strong and similar for Black students from both public and private schools, while weaker for White students from public schools.</p>
+  
+ <p><em>Media Coverage:</em> <a href="https://dev.focoeconomico.org/2022/12/05/alcaldes-negros-como-role-models-evidencia-de-brasil/" target="_blank">Foco Economico</a></p>
+</div>
+
+## **Publications**
 - **Discrimination in the Formation of Academic Networks: A Field Experiment on #EconTwitter** (with <a href="http://www.ajzenman.com/" target="_blank">Nicolás Ajzenman</a> and <a href="https://sites.google.com/site/brunoferman/" target="_blank">Bruno Ferman</a>) <a href="https://pubs.aeaweb.org/doi/abs/10.1257/aeri.20240298" target="_blank">[Published Version]</a> <a href="../files/Discrimination_Twitter_Jan13.pdf" target="_blank">[Working Paper Version]</a>, **_American Economic Review: Insights_**, 2025
 
 <div style="margin-left: 40px;">
@@ -25,13 +34,6 @@ author_profile: true
 <p><em>Media Coverage:</em> <a href="https://www.promarket.org/2023/05/16/discrimination-in-the-formation-of-academic-networks-at-econtwitter/" target="_blank">Promarket</a>; <a href="https://www1.folha.uol.com.br/blogs/politicas-e-justica/2023/04/redes-profissionais-e-discriminacao-no-twitter.shtmls" target="_blank">Folha de São Paulo</a></p>
 </div>
 
-- **Elections that Inspire: Effects of Black Mayors on Educational Attainment** (with Jorge Ikawa, Clarice Martins, and <a href="https://rogeriosantarrosa.wordpress.com/" target="_blank">Rogério Santarrosa</a>; Previously circulated as: *"Black Mayors as Role Models: Evidence from close elections in Brazil"*) <a href="../files/BlackMayors_May9.pdf" target="_blank">[Working Paper]</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5060450" target="_blank">[SSRN]</a>, Revise and Resubmit, Journal of Public Economics
-
-<div style="margin-left: 40px;">
-<p style="padding-top:0;line-height:1.5em;margin-bottom:-2px;"> This paper studies the effects of the election of Black candidates as mayors in Brazil on Black students’ educational choices and attainment. Using a regression discontinuity design comparing municipalities where Black candidates either won or lost the election by a small margin, we first document that Black students from municipalities where Black candidates win are more likely to enroll for the National High School Examination (ENEM), a high-stakes exam used as an admission criteria for many universities. Effects start two years after the election and persist for up to eight years. We also document positive, but much smaller effects for White students. Consistent with the effect on ENEM enrollment, Black students from municipalities where Black candidates won the election are more likely to be enrolled in universities and, in subsequent years, to graduate. Finally, exploring mechanisms, we find suggestive evidence that shifts in students’ aspirations play (at least partially) an important role: (i) secondary and tertiary education are not primary responsibilities of mayors; (ii) Black mayors do not change policies that could affect our outcomes; and (iii) the effects are strong and similar for Black students from both public and private schools, while weaker for White students from public schools.</p>
-  
- <p><em>Media Coverage:</em> <a href="https://dev.focoeconomico.org/2022/12/05/alcaldes-negros-como-role-models-evidencia-de-brasil/" target="_blank">Foco Economico</a></p>
-</div>
 
 ## **Previous Work**
 - **Crime and Vote: Public Violence and the Election of Law and Order Candidates** (with Guilherme Luz). Annals of the 47th National Meeting of Economics, 2019. Available [here](https://www.anpec.org.br/encontro/2019/submissao/files_I/i5-86cc37e2c0fb6bba1b21b13ed0dab573.pdf) (in Portuguese)
