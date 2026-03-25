@@ -5,6 +5,13 @@ permalink: /research/
 author_profile: true
 ---
 ## **Working Papers**
+- **Perceptions of Race in the Labor Market** (with <a href="https://sites.google.com/view/sulinsardoschau/home" target="_blank">Sulin Sardoschau</a> and <a href="https://www.aikoschmeisser.com/" target="_blank">Aiko Schmeisser</a>) <a href="../files/RacialIdentity_Mar26.pdf" target="_blank">[Working Paper]</a> 
+
+<div style="margin-left: 40px;">
+<p style="padding-top:0;line-height: 1.5em;margin-bottom:-2px;">Empirical studies of racial wage disparities typically rely on self-reported race and treat racial categories as fixed. This paper shows that racial classification in the labor market is produced by social perception, and that modeling this perception process is essential for measuring wage gaps. We combine two large-scale administrative data sets to construct three racial identity measures for 330,000 workers in Brazil between 2003 and 2015: employer classification, self-identification, and an algorithmic skin-tone measure extracted from photographs. In over 20 percent of cases, self-identified and employer-ascribed race do not match, and employers disagree in their classification of the same worker. To quantify how race is constructed, we estimate a "race function" describing how employers map phenotypic cues, self-identification, local context, education, and employment histories into racial categories, showing that productivity-relevant factors shape perceptions. Holding skin tone constant, university graduates are 10 percentage points more likely to be perceived as White. Education whitens even conditional on self-declared race and within firm-by-occupation cells. Measured wage disparities differ depending on whether race is self-reported, employer-ascribed, or skin-tone based, and accounting for racial perceptions substantially changes estimated wage gaps. We show that conventional approaches overstate the role of productivity differences in explaining racial wage gaps.</p>
+  
+</div>
+
 - **Rooting for the same team: Shared social identities in a polarized context** (with <a href="http://www.ajzenman.com/" target="_blank">Nicolás Ajzenman</a> and <a href="https://sites.google.com/site/brunoferman/" target="_blank">Bruno Ferman</a>) <a href="../files/Polarization_Twitter_Feb2026.pdf" target="_blank">[Working Paper]</a>  <a href="http://ssrn.com/abstract=4326148" target="_blank">[SSRN]</a> 
 
 <div style="margin-left: 40px;">
