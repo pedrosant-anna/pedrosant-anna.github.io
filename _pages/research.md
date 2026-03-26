@@ -8,7 +8,7 @@ author_profile: true
 ## **Working Papers**
 
 - **Perceptions of Race in the Labor Market** (with <a href="https://sites.google.com/view/sulinsardoschau/home" target="_blank">Sulin Sardoschau</a> and <a href="https://www.aikoschmeisser.com/" target="_blank">Aiko Schmeisser</a>) <a href="../files/RacialIdentity_Mar26.pdf" target="_blank">[Working Paper]</a>
-  <div style="margin-left: 12px; margin-top: 0; margin-bottom: 8px;">
+  <div style="margin-left: 0; margin-top: 0; margin-bottom: 8px;">
     <details style="margin:0;">
       <summary style="cursor:pointer; font-size:0.95em; margin:0;">Abstract</summary>
       <div style="background:#f2f2f2; border:1px solid #d9d9d9; padding:8px 10px; margin-top:4px; border-radius:4px;">
@@ -20,7 +20,7 @@ author_profile: true
   </div>
 
 - **Rooting for the same team: Shared social identities in a polarized context** (with <a href="http://www.ajzenman.com/" target="_blank">Nicolás Ajzenman</a> and <a href="https://sites.google.com/site/brunoferman/" target="_blank">Bruno Ferman</a>) <a href="../files/Polarization_Twitter_Feb2026.pdf" target="_blank">[Working Paper]</a> <a href="http://ssrn.com/abstract=4326148" target="_blank">[SSRN]</a>
-  <div style="margin-left: 12px; margin-top: 0; margin-bottom: 8px;">
+  <div style="margin-left: 0; margin-top: 0; margin-bottom: 8px;">
     <details style="margin:0;">
       <summary style="cursor:pointer; font-size:0.95em; margin:0;">Abstract</summary>
       <div style="background:#f2f2f2; border:1px solid #d9d9d9; padding:8px 10px; margin-top:4px; border-radius:4px;">
@@ -38,7 +38,7 @@ author_profile: true
 ## **Publications and Accepted**
 
 - **Discrimination in the Formation of Academic Networks: A Field Experiment on #EconTwitter** (with <a href="http://www.ajzenman.com/" target="_blank">Nicolás Ajzenman</a> and <a href="https://sites.google.com/site/brunoferman/" target="_blank">Bruno Ferman</a>) <a href="https://pubs.aeaweb.org/doi/abs/10.1257/aeri.20240298" target="_blank">[Published Version]</a> <a href="../files/Discrimination_Twitter_Jan13.pdf" target="_blank">[Working Paper Version]</a>, **_American Economic Review: Insights_**, 2025
-  <div style="margin-left: 12px; margin-top: 0; margin-bottom: 8px;">
+  <div style="margin-left: 0; margin-top: 0; margin-bottom: 8px;">
     <details style="margin:0;">
       <summary style="cursor:pointer; font-size:0.95em; margin:0;">Abstract</summary>
       <div style="background:#f2f2f2; border:1px solid #d9d9d9; padding:8px 10px; margin-top:4px; border-radius:4px;">
@@ -54,7 +54,7 @@ author_profile: true
   </div>
 
 - **Elections that Inspire: Effects of Black Mayors on Educational Attainment** (with Jorge Ikawa, Clarice Martins, and <a href="https://rogeriosantarrosa.wordpress.com/" target="_blank">Rogério Santarrosa</a>; Previously circulated as: *"Black Mayors as Role Models: Evidence from close elections in Brazil"*) <a href="../files/BlackMayors_Nov2025.pdf" target="_blank">[Working Paper]</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5060450" target="_blank">[SSRN]</a>, Accepted, **_Journal of Public Economics_**
-  <div style="margin-left: 12px; margin-top: 0; margin-bottom: 8px;">
+  <div style="margin-left: 0; margin-top: 0; margin-bottom: 8px;">
     <details style="margin:0;">
       <summary style="cursor:pointer; font-size:0.95em; margin:0;">Abstract</summary>
       <div style="background:#f2f2f2; border:1px solid #d9d9d9; padding:8px 10px; margin-top:4px; border-radius:4px;">
