@@ -9,7 +9,7 @@ author_profile: true
 
 - **Perceptions of Race in the Labor Market** (with <a href="https://sites.google.com/view/sulinsardoschau/home" target="_blank">Sulin Sardoschau</a> and <a href="https://www.aikoschmeisser.com/" target="_blank">Aiko Schmeisser</a>) <a href="../files/RacialIdentity_Mar26.pdf" target="_blank">[Working Paper]</a>
 
-<div style="margin-left: 40px; margin-top: 2px; margin-bottom: 8px;">
+<div style="margin-left: 40px; margin-top: 0; margin-bottom: 8px;">
   <details style="margin: 4px 0 0 0;">
     <summary style="cursor:pointer; font-size:0.95em;">Abstract</summary>
     <div style="background:#f2f2f2; border:1px solid #d9d9d9; padding:10px 12px; margin-top:6px; border-radius:4px;">
@@ -22,12 +22,7 @@ author_profile: true
 
 - **Rooting for the same team: Shared social identities in a polarized context** (with <a href="http://www.ajzenman.com/" target="_blank">Nicolás Ajzenman</a> and <a href="https://sites.google.com/site/brunoferman/" target="_blank">Bruno Ferman</a>) <a href="../files/Polarization_Twitter_Feb2026.pdf" target="_blank">[Working Paper]</a> <a href="http://ssrn.com/abstract=4326148" target="_blank">[SSRN]</a>
 
-<div style="margin-left: 40px; margin-top: 2px; margin-bottom: 8px;">
-  <p style="margin: 2px 0 4px 0; font-size:0.95em;">
-    <a href="https://www.socialscienceregistry.org/trials/9982" target="_blank">AEA RCT Registry</a><br>
-    <em>Media Coverage:</em> <a href="https://www.noeseconomia.com/p/si-esto-no-es-economia-que-es" target="_blank">Esto no es Economía</a>
-  </p>
-
+<div style="margin-left: 40px; margin-top: 0; margin-bottom: 8px;">
   <details style="margin: 0;">
     <summary style="cursor:pointer; font-size:0.95em;">Abstract</summary>
     <div style="background:#f2f2f2; border:1px solid #d9d9d9; padding:10px 12px; margin-top:6px; border-radius:4px;">
@@ -36,6 +31,11 @@ author_profile: true
       </p>
     </div>
   </details>
+  
+  <p style="margin: 0 0 4px 0; font-size:0.95em;">
+    <a href="https://www.socialscienceregistry.org/trials/9982" target="_blank">AEA RCT Registry</a><br>
+    <em>Media Coverage:</em> <a href="https://www.noeseconomia.com/p/si-esto-no-es-economia-que-es" target="_blank">Esto no es Economía</a>
+  </p>
 </div>
 
 ## **Publications and Accepted**
@@ -43,10 +43,6 @@ author_profile: true
 - **Discrimination in the Formation of Academic Networks: A Field Experiment on #EconTwitter** (with <a href="http://www.ajzenman.com/" target="_blank">Nicolás Ajzenman</a> and <a href="https://sites.google.com/site/brunoferman/" target="_blank">Bruno Ferman</a>) <a href="https://pubs.aeaweb.org/doi/abs/10.1257/aeri.20240298" target="_blank">[Published Version]</a> <a href="../files/Discrimination_Twitter_Jan13.pdf" target="_blank">[Working Paper Version]</a>, **_American Economic Review: Insights_**, 2025
 
 <div style="margin-left: 40px; margin-top: 2px; margin-bottom: 8px;">
-  <p style="margin: 2px 0 4px 0; font-size:0.95em;">
-    <a href="https://www.socialscienceregistry.org/trials/9507" target="_blank">AEA RCT Registry</a><br>
-    <em>Media Coverage:</em> <a href="https://www.promarket.org/2023/05/16/discrimination-in-the-formation-of-academic-networks-at-econtwitter/" target="_blank">Promarket</a>; <a href="https://www1.folha.uol.com.br/blogs/politicas-e-justica/2023/04/redes-profissionais-e-discriminacao-no-twitter.shtmls" target="_blank">Folha de São Paulo</a>
-  </p>
 
   <details style="margin: 0;">
     <summary style="cursor:pointer; font-size:0.95em;">Abstract</summary>
@@ -56,15 +52,16 @@ author_profile: true
       </p>
     </div>
   </details>
+  
+  <p style="margin: 0 0 4px 0; font-size:0.95em;">
+    <a href="https://www.socialscienceregistry.org/trials/9507" target="_blank">AEA RCT Registry</a><br>
+    <em>Media Coverage:</em> <a href="https://www.promarket.org/2023/05/16/discrimination-in-the-formation-of-academic-networks-at-econtwitter/" target="_blank">Promarket</a>; <a href="https://www1.folha.uol.com.br/blogs/politicas-e-justica/2023/04/redes-profissionais-e-discriminacao-no-twitter.shtmls" target="_blank">Folha de São Paulo</a>
+  </p>
 </div>
 
 - **Elections that Inspire: Effects of Black Mayors on Educational Attainment** (with Jorge Ikawa, Clarice Martins, and <a href="https://rogeriosantarrosa.wordpress.com/" target="_blank">Rogério Santarrosa</a>; Previously circulated as: *"Black Mayors as Role Models: Evidence from close elections in Brazil"*) <a href="../files/BlackMayors_Nov2025.pdf" target="_blank">[Working Paper]</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5060450" target="_blank">[SSRN]</a>, Accepted, Journal of Public Economics
 
 <div style="margin-left: 40px; margin-top: 2px; margin-bottom: 8px;">
-  <p style="margin: 2px 0 4px 0; font-size:0.95em;">
-    <em>Media Coverage:</em> <a href="https://dev.focoeconomico.org/2022/12/05/alcaldes-negros-como-role-models-evidencia-de-brasil/" target="_blank">Foco Economico</a>
-  </p>
-
   <details style="margin: 0;">
     <summary style="cursor:pointer; font-size:0.95em;">Abstract</summary>
     <div style="background:#f2f2f2; border:1px solid #d9d9d9; padding:10px 12px; margin-top:6px; border-radius:4px;">
@@ -73,6 +70,10 @@ author_profile: true
       </p>
     </div>
   </details>
+  
+  <p style="margin: 0 0 4px 0; font-size:0.95em;">
+    <em>Media Coverage:</em> <a href="https://dev.focoeconomico.org/2022/12/05/alcaldes-negros-como-role-models-evidencia-de-brasil/" target="_blank">Foco Economico</a>
+  </p>
 </div>
 
 ## **Previous Work**
