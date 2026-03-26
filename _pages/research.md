@@ -42,7 +42,7 @@ author_profile: true
 
 - **Discrimination in the Formation of Academic Networks: A Field Experiment on #EconTwitter** (with <a href="http://www.ajzenman.com/" target="_blank">Nicolás Ajzenman</a> and <a href="https://sites.google.com/site/brunoferman/" target="_blank">Bruno Ferman</a>) <a href="https://pubs.aeaweb.org/doi/abs/10.1257/aeri.20240298" target="_blank">[Published Version]</a> <a href="../files/Discrimination_Twitter_Jan13.pdf" target="_blank">[Working Paper Version]</a>, **_American Economic Review: Insights_**, 2025
 
-<div style="margin-left: 40px; margin-top: 2px; margin-bottom: 8px;">
+<div style="margin-left: 40px; margin-top: 0; margin-bottom: 8px;">
 
   <details style="margin: 0;">
     <summary style="cursor:pointer; font-size:0.95em;">Abstract</summary>
@@ -61,7 +61,7 @@ author_profile: true
 
 - **Elections that Inspire: Effects of Black Mayors on Educational Attainment** (with Jorge Ikawa, Clarice Martins, and <a href="https://rogeriosantarrosa.wordpress.com/" target="_blank">Rogério Santarrosa</a>; Previously circulated as: *"Black Mayors as Role Models: Evidence from close elections in Brazil"*) <a href="../files/BlackMayors_Nov2025.pdf" target="_blank">[Working Paper]</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5060450" target="_blank">[SSRN]</a>, Accepted, Journal of Public Economics
 
-<div style="margin-left: 40px; margin-top: 2px; margin-bottom: 8px;">
+<div style="margin-left: 40px; margin-top: 0; margin-bottom: 8px;">
   <details style="margin: 0;">
     <summary style="cursor:pointer; font-size:0.95em;">Abstract</summary>
     <div style="background:#f2f2f2; border:1px solid #d9d9d9; padding:10px 12px; margin-top:6px; border-radius:4px;">
