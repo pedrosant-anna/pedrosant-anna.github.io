@@ -59,7 +59,7 @@ author_profile: true
   </p>
 </div>
 
-- **Elections that Inspire: Effects of Black Mayors on Educational Attainment** (with Jorge Ikawa, Clarice Martins, and <a href="https://rogeriosantarrosa.wordpress.com/" target="_blank">Rogério Santarrosa</a>; Previously circulated as: *"Black Mayors as Role Models: Evidence from close elections in Brazil"*) <a href="../files/BlackMayors_Nov2025.pdf" target="_blank">[Working Paper]</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5060450" target="_blank">[SSRN]</a>, Accepted, Journal of Public Economics
+- **Elections that Inspire: Effects of Black Mayors on Educational Attainment** (with Jorge Ikawa, Clarice Martins, and <a href="https://rogeriosantarrosa.wordpress.com/" target="_blank">Rogério Santarrosa</a>; Previously circulated as: *"Black Mayors as Role Models: Evidence from close elections in Brazil"*) <a href="../files/BlackMayors_Nov2025.pdf" target="_blank">[Working Paper]</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5060450" target="_blank">[SSRN]</a>, Accepted, **_Journal of Public Economics_**
 
 <div style="margin-left: 40px; margin-top: 0; margin-bottom: 8px;">
   <details style="margin: 0;">
