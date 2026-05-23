@@ -7,7 +7,7 @@ author_profile: true
 
 ## **Working Papers**
 
-- **Perceptions of Race in the Labor Market** (with <a href="https://sites.google.com/view/sulinsardoschau/home" target="_blank">Sulin Sardoschau</a> and <a href="https://www.aikoschmeisser.com/" target="_blank">Aiko Schmeisser</a>) <a href="../files/RacialIdentity_May26.pdf" target="_blank">[Working Paper]</a>
+- **Perceptions of Race in the Labor Market** (with <a href="https://sites.google.com/view/sulinsardoschau/home" target="_blank">Sulin Sardoschau</a> and <a href="https://www.aikoschmeisser.com/" target="_blank">Aiko Schmeisser</a>) <a href="../files/RacialIdentity_May2026.pdf" target="_blank">[Working Paper]</a>
   <div style="margin-left: 0; margin-top: 0; margin-bottom: 8px;">
     <details style="margin:0;">
       <summary style="cursor:pointer; font-size:0.95em; margin:0;">Abstract</summary>
